@@ -4,3 +4,6 @@
 [submodule "js"]
 	path = js
 	url = git@github.com:jaanhvisaxena/DemoJS.git
+[submodule "DemoCSS"]
+	path = DemoCSS
+	url = git@github.com:jaanhvisaxena/DemoCSS.git
